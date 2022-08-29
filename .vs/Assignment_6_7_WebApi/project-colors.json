@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0af41c0a-9666-451c-ad31-848c26ceaa56": {
+      "ProjectGuid": "0af41c0a-9666-451c-ad31-848c26ceaa56",
+      "DisplayName": "Assignment_6_7_WebApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "acdaa61a-dd2e-44a7-9252-55258d6daf7a": {
+      "ProjectGuid": "acdaa61a-dd2e-44a7-9252-55258d6daf7a",
+      "DisplayName": "BLLTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
